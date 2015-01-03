@@ -1,0 +1,12 @@
+# Site settings
+title: 365 Pictures
+email: me@mikecaputo.com
+description: > # this means to ignore newlines until "baseurl:"
+  1 photo per day for 365 days. >
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://365.pictures" # the base hostname & protocol for your site
+twitter_username: flashpunk
+github_username:  flashpunk
+
+# Build settings
+markdown: kramdown

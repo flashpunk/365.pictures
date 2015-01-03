@@ -8,8 +8,6 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
-
-
 /**
  * Basic styling
  */
@@ -71,6 +69,9 @@ li {
     > ul,
     > ol {
          margin-bottom: 0;
+    }
+    img {
+        display: none;
     }
 }
 

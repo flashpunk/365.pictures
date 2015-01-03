@@ -75,6 +75,9 @@ li {
         width:100%;
         min-height: 500px;
         height: auto;
+        @media (max-width: 767px) {
+            min-height: 250px;
+        }
     }
 }
 

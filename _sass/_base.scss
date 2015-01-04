@@ -72,19 +72,17 @@ li {
     }
 }
 
-section {
-    &.spacer {
-        padding: 20px 50px;
-        h2 {
-            margin-bottom: 5px;
-            font-family: 'Droid Serif', serif;
-            font-size: 24px;
-        }
-        h3 {
-            font-family: 'Droid Serif', serif;
-            font-size: 16px;
-            margin-bottom: 0;
-        }
+.heading {
+    padding: 20px 50px;
+    h2 {
+        margin-bottom: 5px;
+        font-family: 'Droid Serif', serif;
+        font-size: 24px;
+    }
+    h3 {
+        font-family: 'Droid Serif', serif;
+        font-size: 16px;
+        margin-bottom: 0;
     }
 }
 

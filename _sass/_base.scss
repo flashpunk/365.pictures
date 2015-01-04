@@ -94,7 +94,14 @@ section{
     &.spacer{
         padding: 20px 50px;
         h2{
+            margin-bottom: 10px;
             font-family: 'Droid Serif', serif;
+            font-size: 20px;
+        }
+        h2{
+            font-family: 'Droid Serif', serif;
+            font-size: 16px;
+            margin-bottom: 0;
         }
     }
 }

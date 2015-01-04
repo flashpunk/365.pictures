@@ -5,8 +5,9 @@ layout: default
   {% for post in site.posts %}
     <div class="img-holder" data-image="{{ post.large-image }}"></div>
     <section class="spacer">
-      <h2><strong>#{{ post.number }}</strong> - {{ post.title }}</h2>
-      {{ post.content }}
+      <h2><strong>#{{ post.number }}</strong>{% if post.title %} - {{ post.title }}{% endif %}</h2>
+      <h3>{{ post.date | date_to_xmlschema }}</h3>
+      {% if post.content %}{{ post.content }}{% endif %}
     </section>
   {% endfor %}
 </div>

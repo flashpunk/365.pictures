@@ -97,16 +97,6 @@ section{
     }
 }
 
-.imageHolder {
-    img {
-        min-height: 500px;
-        height: auto;
-        @media (max-width: 767px) {
-            min-height: 250px;
-        }
-    }
-}
-
 
 /**
  * Links

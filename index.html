@@ -2,11 +2,10 @@
 layout: default
 ---
 <div class="home">
-  <ul class="post-list">
-    {% for post in site.posts %}
-      	<li>
-      		{{ post.content }}
-  		</li>
-    {% endfor %}
-  </ul>
+  {% for post in site.posts %}
+    <div class="img-holder" data-image="{{ post.large-image }}"></div>
+    <section>
+      {{ post.content }}
+    </section>
+  {% endfor %}
 </div>

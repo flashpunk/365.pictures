@@ -5,4 +5,3 @@ number: "1"
 date:   2015-01-01 17:00:30
 large-image: "https://farm8.staticflickr.com/7495/15527599414_886239640a_k.jpg"
 ---
-<img class="lazy" data-original="https://farm8.staticflickr.com/7495/15527599414_886239640a_k.jpg" />

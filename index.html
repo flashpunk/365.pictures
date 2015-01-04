@@ -1,13 +1,18 @@
 ---
 layout: default
 ---
-<div class="home">
+<div id="fullpage">
+    <div class="section">Some section</div>
+    <div class="section">Some section</div>
+    <div class="section">Some section</div>
+</div>
+
+<div class="fullpage">
   {% for post in site.posts %}
-    <div class="img-holder" data-image="{{ post.large-image }}"></div>
-    <section class="spacer">
+    <div class="section" style="background-image:url('{{ post.large-image }}') no-repeat 50% 50%;">
       <h2><strong>#{{ post.number }}</strong>{% if post.title %} - {{ post.title }}{% endif %}</h2>
       <h3>{{ post.date | date: "%-d %B %Y" }}</h3>
       {% if post.content %}{{ post.content }}{% endif %}
-    </section>
+    </div>
   {% endfor %}
 </div>

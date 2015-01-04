@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "2"
+title:  "Wait for it..."
+number: "2"
 date:   2015-01-02 17:00:30
 large-image: "https://farm8.staticflickr.com/7538/15992877548_3ff77f5e16_k.jpg"
 ---

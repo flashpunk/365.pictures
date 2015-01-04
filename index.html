@@ -5,6 +5,7 @@ layout: default
   {% for post in site.posts %}
     <div class="img-holder" data-image="{{ post.large-image }}"></div>
     <section>
+      <h2>#{{ post.number }} - {{ post.title }}</h2>
       {{ post.content }}
     </section>
   {% endfor %}

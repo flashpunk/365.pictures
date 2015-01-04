@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "3"
+title:  "Spectating"
+number: "3"
 date:   2015-01-03 17:00:30
 large-image: "https://farm8.staticflickr.com/7546/16182270811_f1db509852_k.jpg"
 ---

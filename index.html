@@ -3,12 +3,10 @@ layout: default
 ---
 <div id="fullpage">
   {% for post in site.posts %}
-    <div class="section">
-      <div style="background: url('{{ post.large-image }}') no-repeat 50% 50%;background-size: cover;background-attachment: fixed;">
+    <div class="section" style="background: url('{{ post.large-image }}') no-repeat 50% 50%;background-size: cover;background-attachment: fixed;height:100%;">
         <h2><strong>#{{ post.number }}</strong>{% if post.title %} - {{ post.title }}{% endif %}</h2>
         <h3>{{ post.date | date: "%-d %B %Y" }}</h3>
         {% if post.content %}{{ post.content }}{% endif %}
-      </div>
     </div>
   {% endfor %}
 </div>

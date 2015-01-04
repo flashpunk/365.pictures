@@ -6,6 +6,7 @@ layout: default
     <div class="section">
       <div style="background: url('{{ post.large-image }}') no-repeat 50% 50%;position:absolute;top:0;left:0;bottom:0;right:0;">
         <div class="heading">
+          <h1>A photo every day for 365 days</h1>
           <h2><strong>#{{ post.number }}</strong>{% if post.title %} - {{ post.title }}{% endif %}</h2>
           <h3>{{ post.date | date: "%-d %B %Y" }}</h3>
           {% if post.content %}{{ post.content }}{% endif %}

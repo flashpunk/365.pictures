@@ -4,8 +4,8 @@ layout: default
 <div class="home">
   {% for post in site.posts %}
     <div class="img-holder" data-image="{{ post.large-image }}"></div>
-    <section>
-      <h2>#{{ post.number }} - {{ post.title }}</h2>
+    <section class="spacer">
+      <h2><strong>#{{ post.number }}</strong> - {{ post.title }}</h2>
       {{ post.content }}
     </section>
   {% endfor %}

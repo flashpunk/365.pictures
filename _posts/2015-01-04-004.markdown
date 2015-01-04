@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Gritty"
+number: "4"
+date:   2015-01-04 17:00:30
+large-image: "https://farm8.staticflickr.com/7502/16192781331_000934882a_k.jpg"
+---

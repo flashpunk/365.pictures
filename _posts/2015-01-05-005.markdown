@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Cloudy Lake"
+number: "5"
+date:   2015-01-05 17:00:30
+large-image: "https://farm9.staticflickr.com/8657/15575956783_64681e981f_k.jpg"
+---

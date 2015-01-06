@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Broken"
+number: "6"
+date:   2015-01-05 17:00:30
+large-image: "https://farm9.staticflickr.com/8577/16009982697_48cc6e7de6_k.jpg"
+---

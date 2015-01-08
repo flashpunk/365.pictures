@@ -3,5 +3,5 @@ layout: post
 title:  "Windows"
 number: "8"
 date:   2015-01-08 07:00:30
-large-image: "https://farm8.staticflickr.com/7502/16229232722_4bf5d0830e_k.jpgjpg"
+large-image: "https://farm8.staticflickr.com/7502/16229232722_4bf5d0830e_k.jpg"
 ---

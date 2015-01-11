@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Apparel"
+number: "16"
+date:   2015-01-16 08:00:30
+large-image: "https://farm8.staticflickr.com/7579/16247954102_b9e35eb2f2_k.jpg"
+---

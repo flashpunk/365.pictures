@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Vogue"
+number: "19"
+date:   2015-01-19 08:00:30
+large-image: "https://farm8.staticflickr.com/7469/16089363117_870caea114_k.jpg"
+---

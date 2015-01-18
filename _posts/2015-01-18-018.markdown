@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Bike"
+number: "18"
+date:   2015-01-18 08:00:30
+large-image: "https://farm9.staticflickr.com/8660/16274405352_9be32ba228_k.jpg"
+---

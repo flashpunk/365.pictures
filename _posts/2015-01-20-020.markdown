@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Blur"
+number: "20"
+date:   2015-01-20 08:00:30
+large-image: "https://farm8.staticflickr.com/7554/16270983676_3eab822f19_k.jpg"
+---

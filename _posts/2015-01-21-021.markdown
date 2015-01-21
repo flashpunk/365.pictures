@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Stripes"
+number: "21"
+date:   2015-01-21 08:00:30
+large-image: "https://farm9.staticflickr.com/8658/16296923225_14b1a7bd31_k.jpg"
+---

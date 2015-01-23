@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "On a wire"
+number: "23"
+date:   2015-01-23 08:00:30
+large-image: "https://farm9.staticflickr.com/8630/16346452202_a53079d34e_k.jpg"
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Storefront"
+number: "24"
+date:   2015-01-24 08:00:30
+large-image: "https://farm8.staticflickr.com/7449/16328356516_23b9b2af70_k.jpg"
+---

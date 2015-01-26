@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Break"
+number: "26"
+date:   2015-01-26 08:00:30
+large-image: "https://farm8.staticflickr.com/7450/15751788913_54e746efb6_k.jpg"
+---

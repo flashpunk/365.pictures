@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Meatlocker"
+number: "27"
+date:   2015-01-27 08:00:30
+large-image: "https://farm8.staticflickr.com/7414/16371783445_7bd35a5be8_k.jpg"
+---

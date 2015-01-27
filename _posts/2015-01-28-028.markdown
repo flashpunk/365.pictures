@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Snow Shuffle"
+number: "28"
+date:   2015-01-28 08:00:30
+large-image: "https://farm8.staticflickr.com/7450/16383322102_4f3acea2cd_k.jpg"
+---

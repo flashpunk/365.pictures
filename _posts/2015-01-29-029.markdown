@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Street Life"
+number: "29"
+date:   2015-01-29 08:00:30
+large-image: "https://farm9.staticflickr.com/8665/16391055061_f9c6c86d9c_k.jpg"
+---

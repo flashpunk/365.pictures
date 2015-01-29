@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Foliage"
+number: "30"
+date:   2015-01-30 08:00:30
+large-image: "https://farm8.staticflickr.com/7301/16391055841_c0cb0d670e_k.jpg"
+---

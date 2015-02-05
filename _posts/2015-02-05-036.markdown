@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Palm Path"
+number: "36"
+date:   2015-02-05 08:00:30
+large-image: "https://farm8.staticflickr.com/7296/16436935062_30b2eebe69_k.jpg"
+---

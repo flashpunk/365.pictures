@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Boats"
+number: "41"
+date:   2015-02-10 08:00:30
+large-image: "https://farm8.staticflickr.com/7298/16481079332_c8f72a8672_k.jpg"
+---

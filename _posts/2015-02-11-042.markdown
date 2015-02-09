@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Snow Path"
+number: "42"
+date:   2015-02-11 08:00:30
+large-image: "https://farm8.staticflickr.com/7306/16298283148_5e03b766cf_k.jpg"
+---

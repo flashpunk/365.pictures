@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Motor Men"
+number: "39"
+date:   2015-02-08 08:00:30
+large-image: "https://farm8.staticflickr.com/7367/15853905253_6bd39990b4_k.jpg"
+---

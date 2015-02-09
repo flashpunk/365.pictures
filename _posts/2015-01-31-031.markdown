@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Morning Sun"
+number: "31"
+date:   2015-01-31 08:00:30
+large-image: "https://farm8.staticflickr.com/7321/16409889072_a255249390_k.jpg"
+---

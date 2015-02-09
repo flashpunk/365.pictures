@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Dominican Guitar Men"
+number: "38"
+date:   2015-02-07 08:00:30
+large-image: "https://farm9.staticflickr.com/8593/16262109550_dc32150518_k.jpg"
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Garden"
+number: "32"
+date:   2015-02-01 08:00:30
+large-image: "https://farm9.staticflickr.com/8680/16230294210_3ad6f07f79_k.jpg"
+---

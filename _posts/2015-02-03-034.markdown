@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Pathway"
+number: "34"
+date:   2015-02-03 08:00:30
+large-image: "https://farm8.staticflickr.com/7284/16230044408_e8ce1cf4a1_k.jpg"
+---

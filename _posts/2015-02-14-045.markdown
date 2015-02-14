@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Stuff"
+number: "45"
+date:   2015-02-13 08:00:30
+large-image: "https://farm8.staticflickr.com/7419/16339840560_8c89397001_k.jpg"
+---

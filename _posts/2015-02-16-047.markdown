@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "3 of a Kind"
+number: "47"
+date:   2015-02-17 08:00:30
+large-image: "https://farm9.staticflickr.com/8679/16547004271_14a75c26f5_k.jpg"
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Lines"
+number: "51"
+date:   2015-02-20 08:00:30
+large-image: "https://farm8.staticflickr.com/7387/16563939786_077e3d2eb1_k.jpg"
+---

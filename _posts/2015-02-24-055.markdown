@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "The Grid"
+number: "55"
+date:   2015-02-24 08:00:30
+large-image: "https://farm9.staticflickr.com/8606/16632716862_57fe6a33a9_s.jpg"
+---

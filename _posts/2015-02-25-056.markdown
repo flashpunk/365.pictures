@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Ford"
+number: "56"
+date:   2015-02-25 08:00:30
+large-image: "https://farm9.staticflickr.com/8588/16025158983_7a7ec18700_s.jpg"
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Point of View"
+number: "58"
+date:   2015-02-27 08:00:30
+large-image: "https://farm9.staticflickr.com/8642/16662736345_2d81b87501_s.jpg"
+---

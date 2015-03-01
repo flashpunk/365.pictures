@@ -3,5 +3,5 @@ layout: post
 title:  "Busted"
 number: "46"
 date:   2015-02-15 08:00:30
-large-image: "https://www.flickr.com/photos/flashpunkca/16351421467" title="_10X3698.jpg by Mike Caputo, on Flickr"><img src="https://farm9.staticflickr.com/8574/16351421467_443eaf3e3d_k.jpg"
+large-image: "https://farm9.staticflickr.com/8574/16351421467_443eaf3e3d_k.jpg"
 ---

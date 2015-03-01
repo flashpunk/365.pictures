@@ -3,5 +3,5 @@ layout: post
 title:  "Good Decisions"
 number: "57"
 date:   2015-02-26 08:00:30
-large-image: "https://farm9.staticflickr.com/8640/16466154610_c332d69c70_s.jpg"
+large-image: "https://farm9.staticflickr.com/8640/16466154610_08674e9cbd_k.jpg"
 ---

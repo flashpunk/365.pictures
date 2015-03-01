@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Stair Self"
+number: "63"
+date:   2015-03-04 08:00:30
+large-image: "https://farm9.staticflickr.com/8657/16675400385_de8101f9e5_k.jpg"
+---

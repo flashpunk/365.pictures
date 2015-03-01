@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Shadow Perspective"
+number: "61"
+date:   2015-03-02 08:00:30
+large-image: "https://farm9.staticflickr.com/8587/16487995580_6333edee10_k.jpg"
+---

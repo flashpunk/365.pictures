@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Blocks on Blocks"
+number: "62"
+date:   2015-03-03 08:00:30
+large-image: "https://farm9.staticflickr.com/8619/16649453846_76af9e31c1_k.jpg"
+---

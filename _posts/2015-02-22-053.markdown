@@ -3,5 +3,5 @@ layout: post
 title:  "Black Hood"
 number: "53"
 date:   2015-02-22 08:00:30
-large-image: "https://farm9.staticflickr.com/8616/16425277648_2286319253_s.jpg"
+large-image: "https://farm9.staticflickr.com/8616/16425277648_402869bbd7_k.jpg"
 ---

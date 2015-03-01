@@ -3,5 +3,5 @@ layout: post
 title:  "The Street"
 number: "54"
 date:   2015-02-23 08:00:30
-large-image: "https://farm9.staticflickr.com/8655/16004182053_140f1c1574_s.jpg"
+large-image: "https://farm9.staticflickr.com/8655/16004182053_e65be9c24c_k.jpg"
 ---

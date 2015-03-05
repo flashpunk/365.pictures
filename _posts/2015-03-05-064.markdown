@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Silver and Gold"
+number: "64"
+date:   2015-03-05 08:00:30
+large-image: "https://farm9.staticflickr.com/8626/16674026101_5c1622eacf_k.jpg"
+---

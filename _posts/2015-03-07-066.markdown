@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Gold"
+number: "66"
+date:   2015-03-07 08:00:30
+large-image: "https://farm8.staticflickr.com/7591/16127737763_f26b0eca9f_k.jpg"
+---

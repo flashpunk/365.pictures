@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Focus"
+number: "68"
+date:   2015-03-09 08:00:30
+large-image: "https://farm8.staticflickr.com/7632/16769492082_d98bc18a3f_k.jpg"
+---

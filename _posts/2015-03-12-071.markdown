@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Waiting"
+number: "71"
+date:   2015-03-12 08:00:30
+large-image: "https://farm9.staticflickr.com/8701/16603553379_99aee59dd7_k.jpg"
+---

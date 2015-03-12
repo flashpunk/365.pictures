@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Steps"
+number: "70"
+date:   2015-03-11 08:00:30
+large-image: "https://farm9.staticflickr.com/8701/16763813216_259c5d2687_k.jpg"
+---

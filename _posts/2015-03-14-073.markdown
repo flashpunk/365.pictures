@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Points"
+number: "73"
+date:   2015-03-14 08:00:30
+large-image: "https://farm8.staticflickr.com/7647/16602323040_dd8e722da2_k.jpg"
+---

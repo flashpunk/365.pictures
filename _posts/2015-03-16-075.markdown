@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Cross Rider"
+number: "75"
+date:   2015-03-16 08:00:30
+large-image: "https://farm9.staticflickr.com/8702/16827796562_8ac0ce26df_k.jpg"
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Sunspot"
+number: "76"
+date:   2015-03-17 08:00:30
+large-image: "https://farm9.staticflickr.com/8710/16660894100_de5ac82a67_k.jpg"
+---

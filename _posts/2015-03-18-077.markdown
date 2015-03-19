@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "No Fun"
+number: "77"
+date:   2015-03-18 08:00:30
+large-image: "https://farm8.staticflickr.com/7655/16671737138_2d61576826_k.jpg"
+---

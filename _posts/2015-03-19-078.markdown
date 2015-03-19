@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Smoker"
+number: "78"
+date:   2015-03-19 08:00:30
+large-image: "https://farm9.staticflickr.com/8607/16679486738_6024744aa8_k.jpg"
+---

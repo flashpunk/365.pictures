@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Skyline"
+number: "79"
+date:   2015-03-20 08:00:30
+large-image: "https://farm8.staticflickr.com/7282/16255678174_a3bf905b01_k.jpg"
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Look Back"
+number: "83"
+date:   2015-03-24 08:00:30
+large-image: "https://farm8.staticflickr.com/7643/16735745018_fea0596443_k.jpg"
+---

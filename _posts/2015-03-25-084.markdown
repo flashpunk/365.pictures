@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Kick, Push"
+number: "84"
+date:   2015-03-25 08:00:30
+large-image: "https://farm8.staticflickr.com/7612/16932238125_941c00591a_k.jpg"
+---

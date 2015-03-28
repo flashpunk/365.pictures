@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Cooney"
+number: "86"
+date:   2015-03-27 08:00:30
+large-image: "https://farm8.staticflickr.com/7602/16764769639_6d96ae239c_k.jpg"
+---

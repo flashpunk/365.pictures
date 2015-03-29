@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Church Doors"
+number: "87"
+date:   2015-03-28 08:00:30
+large-image: "https://farm9.staticflickr.com/8719/16773227218_c2628bb065_k.jpg"
+---

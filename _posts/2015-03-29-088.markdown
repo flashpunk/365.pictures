@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Light Bright"
+number: 887"
+date:   2015-03-29 08:00:30
+large-image: "https://farm8.staticflickr.com/7655/16976338801_2ac445afd9_k.jpg"
+---

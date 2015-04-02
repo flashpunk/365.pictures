@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Skullcandy"
+number: "91"
+date:   2015-04-01 08:00:30
+large-image: "https://farm9.staticflickr.com/8691/16798358247_57fb7e11cf_k.jpg"
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Legs"
+number: "92"
+date:   2015-04-02 08:00:30
+large-image: "https://farm8.staticflickr.com/7621/16829058639_6c4f3eaaf2_k.jpg"
+---

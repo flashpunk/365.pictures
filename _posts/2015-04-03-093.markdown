@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Picking Berries"
+number: "93"
+date:   2015-04-03 08:00:30
+large-image: "https://farm8.staticflickr.com/7606/16408847953_1c3eb5e8eb_k.jpg"
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Bay St"
+number: "94"
+date:   2015-04-04 08:00:30
+large-image: "https://farm8.staticflickr.com/7666/16832753337_cc57c29300_k.jpg"
+---

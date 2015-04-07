@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Old Timey Ride"
+number: "96"
+date:   2015-04-06 08:00:30
+large-image: "https://farm8.staticflickr.com/7686/16442616934_ab37670b65_k.jpg"
+---

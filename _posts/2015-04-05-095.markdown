@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Bike Man"
+number: "95"
+date:   2015-04-05 08:00:30
+large-image: "https://farm8.staticflickr.com/7655/16877203718_13db99c4b4_k.jpg"
+---

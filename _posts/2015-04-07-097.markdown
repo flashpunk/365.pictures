@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Fruit Stand"
+number: "97"
+date:   2015-04-07 08:00:30
+large-image: "https://farm9.staticflickr.com/8722/16888456458_5eda573223_k.jpg"
+---

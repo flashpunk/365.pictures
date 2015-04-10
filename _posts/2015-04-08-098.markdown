@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Change Batteries"
+number: "98"
+date:   2015-04-08 08:00:30
+large-image: "https://farm9.staticflickr.com/8796/16909661068_a67c61e9d9_k.jpg"
+---

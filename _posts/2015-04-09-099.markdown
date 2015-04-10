@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Augusta Fruit Market"
+number: "99"
+date:   2015-04-09 08:00:30
+large-image: "https://www.flickr.com/photos/flashpunkca/17100862352" title="_DSF3900.jpg by Mike Caputo, on Flickr"><img src="https://farm9.staticflickr.com/8728/17100862352_95249bb988_k.jpg"
+---

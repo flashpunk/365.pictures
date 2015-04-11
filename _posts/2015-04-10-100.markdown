@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Snoboy"
+number: "100"
+date:   2015-04-10 08:00:30
+large-image: "https://www.flickr.com/photos/flashpunkca/17100862352" title="_DSF3900.jpg by Mike Caputo, on Flickr"><img src="https://farm9.staticflickr.com/8733/16927314759_c3a2749078_k.jpg"
+---

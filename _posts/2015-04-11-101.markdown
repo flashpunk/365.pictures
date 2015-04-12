@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Legs"
+number: "101"
+date:   2015-04-11 08:00:30
+large-image: "https://www.flickr.com/photos/flashpunkca/17100862352" title="_DSF3900.jpg by Mike Caputo, on Flickr"><img src="https://farm8.staticflickr.com/7726/16506944623_63bcf495ce_k.jpg"
+---

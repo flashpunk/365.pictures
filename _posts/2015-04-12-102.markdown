@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "LC"
+number: "102"
+date:   2015-04-12 08:00:30
+large-image: "https://www.flickr.com/photos/flashpunkca/17100862352" title="_DSF3900.jpg by Mike Caputo, on Flickr"><img src="https://farm8.staticflickr.com/7611/17113252766_038b46a89d_k.jpg"
+---

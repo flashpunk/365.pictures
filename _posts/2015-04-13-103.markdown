@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Man with hat"
+number: "103"
+date:   2015-04-13 08:00:30
+large-image: "https://www.flickr.com/photos/flashpunkca/17100862352" title="_DSF3900.jpg by Mike Caputo, on Flickr"><img src="https://farm9.staticflickr.com/8753/16522367344_faf9cf4860_k.jpg"
+---

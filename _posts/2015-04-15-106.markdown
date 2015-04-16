@@ -3,5 +3,5 @@ layout: post
 title:  "Accessability"
 number: "106"
 date:   2015-04-16 08:00:30
-large-image: "https://www.flickr.com/photos/flashpunkca/17100862352" title="_DSF3900.jpg by Mike Caputo, on Flickr"><img src="https://farm8.staticflickr.com/7703/17135868026_be0ef4b144_k.jpg"
+large-image: "https://farm8.staticflickr.com/7703/17135868026_be0ef4b144_k.jpg"
 ---

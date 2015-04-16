@@ -3,5 +3,5 @@ layout: post
 title:  "Rollin' with my homies"
 number: "104"
 date:   2015-04-14 08:00:30
-large-image: "https://www.flickr.com/photos/flashpunkca/17100862352" title="_DSF3900.jpg by Mike Caputo, on Flickr"><img src="https://farm9.staticflickr.com/8733/17161189731_4ca18cc0ce_k.jpg"
+large-image: "https://farm9.staticflickr.com/8733/17161189731_4ca18cc0ce_k.jpg"
 ---

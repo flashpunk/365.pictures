@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Smokey Morning"
+number: "107"
+date:   2015-04-17 08:00:30
+large-image: "https://farm9.staticflickr.com/8749/16556264203_dcd87f26e8_k.jpg"
+---

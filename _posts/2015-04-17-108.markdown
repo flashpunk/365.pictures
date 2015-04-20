@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Direction"
+number: "108"
+date:   2015-04-18 08:00:30
+large-image: "https://farm8.staticflickr.com/7685/16974270890_b05829cdf0_k.jpg"
+---

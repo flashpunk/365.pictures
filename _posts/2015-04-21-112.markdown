@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "The Great Trek"
+number: "112"
+date:   2015-04-21 08:00:30
+large-image: "https://farm8.staticflickr.com/7674/17196374496_6ad646ae3d_k.jpg"
+---

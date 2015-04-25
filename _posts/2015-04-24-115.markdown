@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Long Shadows"
+number: "115"
+date:   2015-04-24 08:00:30
+large-image: "https://farm8.staticflickr.com/7649/16642151044_6503eb7c72_k.jpg"
+---

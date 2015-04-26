@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Vanishing Point"
+number: "116"
+date:   2015-04-25 08:00:30
+large-image: "https://farm9.staticflickr.com/8718/17070259197_b469af7c10_k.jpg"
+---

@@ -3,5 +3,5 @@ layout: post
 title:  "Sneaking In"
 number: "65"
 date:   2015-03-06 08:00:30
-large-image: "https://farm9.staticflickr.com/8564/16712750596_b811913626_s.jpg"
+large-image: "https://farm9.staticflickr.com/8564/16712750596_15cc79b2b3_k.jpg"
 ---

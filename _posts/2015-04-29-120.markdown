@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Bus Stop"
+number: "120"
+date:   2015-04-29 08:00:30
+large-image: "https://farm9.staticflickr.com/8798/17305343562_35db15c33c_k.jpg"
+---

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Cloud Meets Sky"
+number: "123"
+date:   2015-05-02 08:00:30
+large-image: "https://farm8.staticflickr.com/7737/17345695556_b18d618cd9_k.jpg"
+---
